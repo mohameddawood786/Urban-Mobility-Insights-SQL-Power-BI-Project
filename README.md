@@ -70,4 +70,4 @@ To analyze transportation datasets and identify **delay hotspots**, **peak conge
 ## 🧩 How to Recreate the Project
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/<your-username>/Urban-Mobility-Insights-SQL-Power-BI-Project.git
+   git clone https://github.com/mohameddawood786/Urban-Mobility-Insights-SQL-Power-BI-Project.git
