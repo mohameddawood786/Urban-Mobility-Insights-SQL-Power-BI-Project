@@ -62,7 +62,8 @@ To analyze transportation datasets and identify **delay hotspots**, **peak conge
 ---
 
 ## 📈 Dashboard Preview
-<img width="1136" height="643" alt="Screenshot 2025-09-14 231113" src="https://github.com/user-attachments/assets/4ac6bb1d-25fc-492a-a89e-0df9672354e7" />
+<img width="1136" height="643" alt="<img width="1278" height="721" alt="Screenshot 2025-11-01 184055" src="https://github.com/user-attachments/assets/a032b6b0-f5ab-472e-b6a2-4c5200e3667d" />
+" />
 
 
 ---
